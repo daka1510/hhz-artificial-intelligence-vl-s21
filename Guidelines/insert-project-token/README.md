@@ -3,6 +3,7 @@
 - Open your notebook in edit mode
 - Click on the three vertical dots and select insert project token
 ![](./screenshots/1.png)
+  - If you just imported your notebook from file, or from URL and see an error message when trying to insert a project token, reload the page and try again.
 - If no project token is set, follow the link to create a new project token
 ![](./screenshots/2.png)
 - Scroll down on the project settings page and click _New token_
